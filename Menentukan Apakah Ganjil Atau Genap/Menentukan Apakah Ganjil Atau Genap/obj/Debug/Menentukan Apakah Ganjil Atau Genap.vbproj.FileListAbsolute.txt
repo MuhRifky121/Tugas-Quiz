@@ -1,0 +1,10 @@
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Menentukan Apakah Ganjil Atau Genap\bin\Debug\Menentukan Apakah Ganjil Atau Genap.exe.config
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Menentukan Apakah Ganjil Atau Genap\obj\Debug\Menentukan_Apakah_Ganjil_Atau_Genap.MainForm.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Menentukan Apakah Ganjil Atau Genap\obj\Debug\Menentukan_Apakah_Ganjil_Atau_Genap.Resources.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Menentukan Apakah Ganjil Atau Genap\obj\Debug\Menentukan Apakah Ganjil Atau Genap.vbproj.GenerateResource.Cache
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Menentukan Apakah Ganjil Atau Genap\bin\Debug\Menentukan Apakah Ganjil Atau Genap.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Menentukan Apakah Ganjil Atau Genap\bin\Debug\Menentukan Apakah Ganjil Atau Genap.pdb
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Menentukan Apakah Ganjil Atau Genap\bin\Debug\Menentukan Apakah Ganjil Atau Genap.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Menentukan Apakah Ganjil Atau Genap\obj\Debug\Menentukan Apakah Ganjil Atau Genap.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Menentukan Apakah Ganjil Atau Genap\obj\Debug\Menentukan Apakah Ganjil Atau Genap.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Menentukan Apakah Ganjil Atau Genap\obj\Debug\Menentukan Apakah Ganjil Atau Genap.pdb
